@@ -1,10 +1,10 @@
 <html>
 <body style="background-color:#C8F9F7;">
-<title>Qiu Shi Wang</title>
+<!-- <title>Qiu Shi Wang</title> -->
 
 <body>
 
-<h1 style=font-size:40px>Qiu Shi Wang</h1>
+<h2 style=font-size:40px>Qiu Shi Wang</h2>
 
 <p style=font-size:20px>B. Sc. student in Honours Mathematics and Physics, McGill University <p>
 <img src="qiushipicture.jpg" alt="photo" width="463.8" height="307.2">
