@@ -1,12 +1,12 @@
 <html>
 <body style="background-color:#C8F9F7;">
-<title>Qiu Shi Wang</title>
+<!-- <title>Qiu Shi Wang</title> -->
 
 <body>
 
-<h1 style=font-size:40px>Qiu Shi Wang</h1>
+<!-- <h2 style=font-size:40px>Qiu Shi Wang</h2> -->
 
-<p style=font-size:20px>B. Sc. student in Honours Mathematics and Physics, McGill University <p>
+<h3>B. Sc. student in Honours Mathematics and Physics, McGill University (2020-2023) </h3>
 <img src="qiushipicture.jpg" alt="photo" width="463.8" height="307.2">
 
 <p> My <a href="cv Qiu Shi Wang.pdf" target="_blank">curriculum vitae</a>. </p>
@@ -39,7 +39,4 @@ Wang, Q. (2021), <a href="Wang_Hochschild (1).pdf" target="_blank"><i>Hochschild
 <a href = "Classification des structures complexes sur le tore.pdf" target="_blank"> A brief review of the classification of complex structures on the torus.</a> The main result is that every complex structure on the torus is isomorphic to the quotient of the complex plane by a lattice, the canonical construction of a complex torus. En français.
 </li>
 </ul>
-
-</body>
-</html>
 
