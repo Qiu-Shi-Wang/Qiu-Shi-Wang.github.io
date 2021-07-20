@@ -7,6 +7,8 @@
 <!-- <h2 style=font-size:40px>Qiu Shi Wang</h2> -->
 
 <h3>B. Sc. student in Honours Mathematics and Physics, McGill University (2020-2023) </h3>
+  
+<p> Email: qiu <i>dot</i> s <i>dot</i> wang <i>at</i> mail <i>dot</i> mcgill <i>dot</i> ca </p> 
 <img src="qiushipicture.jpg" alt="photo" width="463.8" height="307.2">
 
 <p> My <a href="cv Qiu Shi Wang.pdf" target="_blank">curriculum vitae</a>. </p>
